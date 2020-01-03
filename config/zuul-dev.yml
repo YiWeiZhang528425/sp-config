@@ -1,6 +1,9 @@
 spring:
   application:
     name: zuul
+  could: 
+    config: 
+      override-none: true
 server:
   port: 3001
 eureka:
